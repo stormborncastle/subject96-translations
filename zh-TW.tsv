@@ -1,0 +1,690 @@
+key	english	translation
+cards.kael_strike.flavor	Claws first. The Vault can file the complaint later.	
+cards.kael_strike.name	Storm Strike	
+cards.kael_strike.text	Deal {damage} damage.	
+cards.kael_talon.flavor	A shallow cut to make the next one deeper.	
+cards.kael_talon.name	Talon	
+cards.kael_talon.text	Deal {damage} damage. Gain {stacks} Fury.	
+cards.kael_defend.flavor	Shoulders down, tail out, take the hit on the scales that have already been hit.	
+cards.kael_defend.name	Brace	
+cards.kael_defend.text	Gain {block} Block.	
+cards.kael_wrench.flavor	Steel does not care how angry you are. Throw yourself against it anyway.	
+cards.kael_wrench.name	Wrench Free	
+cards.kael_wrench.text	Struggle {struggle}.	
+cards.kael_stormclaw.flavor	Ozone in the mouth, blue light under the claws, and the warden's grin slipping.	
+cards.kael_stormclaw.name	Storm Claw	
+cards.kael_stormclaw.text	Deal {damage} damage. Gain {stacks} Fury.	
+cards.kael_roar.flavor	The sound bounces off the concrete and every collar in the block hums with it.	
+cards.kael_roar.name	Roar	
+cards.kael_roar.text	Apply {stacks} Weak and {stacks2} Vulnerable to ALL enemies.	
+cards.kael_ember_skin.flavor	Touch him. Go on. See what the belly-scales do to your gloves.	
+cards.kael_ember_skin.name	Ember Skin	
+cards.kael_ember_skin.text	Gain {block} Block. Apply {stacks} Heat to the target.	
+cards.kael_headlong.flavor	Horns down, cock hard, no plan. The fight is the foreplay.	
+cards.kael_headlong.name	Headlong	
+cards.kael_headlong.text	Deal {damage} damage. You gain {arousal} arousal.	
+cards.kael_thunderclap.flavor	Both palms together. The lights flicker. Someone's drone falls out of the air.	
+cards.kael_thunderclap.name	Thunderclap	
+cards.kael_thunderclap.text	Deal {damage} damage to ALL enemies.	
+cards.kael_snarl.flavor	Lips off the fangs, low in the chest. The handler's hand stops halfway to your throat.	
+cards.kael_snarl.name	Snarl	
+cards.kael_snarl.text	Apply {stacks} Weak. Gain {stacks2} Fury.	
+cards.kael_chainbreaker.flavor	Every strap they add is another handle for the rage.	
+cards.kael_chainbreaker.name	Chainbreaker	
+cards.kael_chainbreaker.text	Deal {damage} damage, +3 per restraint you wear.	
+cards.kael_tear_loose.flavor	Skin comes off the wrist with the leather. Good. Now the hand is slick enough to slip.	
+cards.kael_tear_loose.name	Tear Loose	
+cards.kael_tear_loose.text	Struggle {struggle}. Gain {stacks} Fury.	
+cards.kael_brace_impact.flavor	Bound dragons learn to take a beating on the parts that are still theirs.	
+cards.kael_brace_impact.name	Brace for Impact	
+cards.kael_brace_impact.text	Gain {block} Block. If you wear any restraint, gain {block2} more.	
+cards.kael_heat_lash.flavor	The tail comes round glowing at the tip and leaves a smell of scorched latex.	
+cards.kael_heat_lash.name	Heat Lash	
+cards.kael_heat_lash.text	Deal {damage} damage. Apply {stacks} Heat.	
+cards.kael_bellow.flavor	Not words. Weather.	
+cards.kael_bellow.name	Bellow	
+cards.kael_bellow.text	Gain {stacks} Fury. Draw {draw} card.	
+cards.kael_bellow.upgrade.text	Gain {stacks} Fury. Draw {draw} cards.	
+cards.kael_pummel.flavor	Fists, elbows, the flat of the skull: whatever they have not tied down yet.	
+cards.kael_pummel.name	Pummel	
+cards.kael_pummel.text	Deal {damage} damage {times} times.	
+cards.kael_cinder_bite.flavor	Teeth in the shoulder, breath like a furnace door. He screams into the gag he put on you.	
+cards.kael_cinder_bite.name	Cinder Bite	
+cards.kael_cinder_bite.text	Deal {damage} damage. If the target has Heat, deal {damage2} more.	
+cards.kael_slam.flavor	Pick the handler up by the harness she was going to put on you and introduce her to the wall.	
+cards.kael_slam.name	Slam	
+cards.kael_slam.text	Deal {damage} damage. Apply {stacks} Vulnerable.	
+cards.kael_denied.flavor	The cage is full and aching and every drop that cannot come out goes into the claws.	
+cards.kael_denied.name	Denied	
+cards.kael_denied.text	Deal {damage} damage. If you are Locked, deal {damage2} more.	
+cards.kael_scorch_off.flavor	The belly-scales go orange and the rubber over them goes to smoke. It stinks. It works.	
+cards.kael_scorch_off.name	Scorch Off	
+cards.kael_scorch_off.text	Tear away 1 latex layer. Gain {stacks} Fury. Gain {block} Block.	
+cards.kael_scorch_off.upgrade.text	Tear away 2 latex layers. Gain {stacks} Fury. Gain {block} Block.	
+cards.kael_static_guard.flavor	Scales lift, hair-fine arcs crawl between the horns. Anyone who grabs you now will remember it.	
+cards.kael_static_guard.name	Static Guard	
+cards.kael_static_guard.text	Gain {block} Block. Gain {stacks} Fury.	
+cards.kael_immolate.flavor	Everything in the chest. Everything. Let the drool run, let the cage strain, burn him.	
+cards.kael_immolate.name	Immolate	
+cards.kael_immolate.text	Deal {damage} damage X times.	
+cards.kael_breakout.flavor	Wrists, ankles, jaw, throat. A whole body thrown against a whole rig, and something in the rig gives first.	
+cards.kael_breakout.name	Breakout	
+cards.kael_breakout.text	Struggle 4 against EVERY restraint you wear.	
+cards.kael_breakout.upgrade.text	Struggle 6 against EVERY restraint you wear.	
+cards.kael_thunderhead.effects.0.text	Storm's coming in, boy. Get inside.	
+cards.kael_thunderhead.flavor	Pressure builds behind the eyes like weather behind a mountain.	
+cards.kael_thunderhead.name	Thunderhead	
+cards.kael_thunderhead.text	At the start of your turn, gain {stacks} Fury.	
+cards.kael_edge_of_rage.flavor	Hard enough to hurt, close enough to spill, and the only thing you are allowed to hit is him.	
+cards.kael_edge_of_rage.name	Edge of Rage	
+cards.kael_edge_of_rage.text	Deal {damage} damage. If your arousal is 50 or more, deal it twice.	
+cards.kael_lightning_lash.flavor	It leaves a branching burn on his hide that looks like a map of where he should have run.	
+cards.kael_lightning_lash.name	Lightning Lash	
+cards.kael_lightning_lash.text	Deal {damage} damage. Apply {stacks} Weak.	
+cards.kael_seethe.flavor	Rage and want share a pipe in Kael. Open one and the other comes too.	
+cards.kael_seethe.name	Seethe	
+cards.kael_seethe.text	Gain {stacks} Strength. You gain {arousal} arousal. Exhaust.	
+cards.kael_rattle.flavor	Fist around the bars, cock swollen purple between them, and the padlock clicking against the ring like a laugh.	
+cards.kael_rattle.name	Rattle the Cage	
+cards.kael_rattle.text	Gain Fury equal to your Denial. Struggle {struggle} against your cage.	
+cards.kael_hot_blood.flavor	They keep him one stroke from coming for a reason. It was a bad reason.	
+cards.kael_hot_blood.name	Hot Blood	
+cards.kael_hot_blood.text	Whenever you EDGE, gain {stacks} Strength.	
+cards.kael_burning_roar.flavor	The lab coats go up like paper. The latex just smokes and clings.	
+cards.kael_burning_roar.name	Burning Roar	
+cards.kael_burning_roar.text	Apply {stacks} Heat to ALL enemies. Gain {stacks2} Fury.	
+cards.kael_frenzy.flavor	Claws, claws, and the promise of worse.	
+cards.kael_frenzy.name	Frenzy	
+cards.kael_frenzy.text	Deal {damage} damage {times} times. Gain {stacks} Fury.	
+cards.kael_storm_fang.flavor	A cuffed warden makes a much better chew toy.	
+cards.kael_storm_fang.name	Storm Fang	
+cards.kael_storm_fang.text	Deal {damage} damage. If the target is restrained, apply {stacks} Vulnerable.	
+cards.kael_reckless.flavor	The hit lands. So does the thought of what they will do to you if it had not.	
+cards.kael_reckless.name	Reckless	
+cards.kael_reckless.text	Deal {damage} damage. Gain {stacks} Aroused.	
+cards.kael_shatter.flavor	The riot shield folds like foil. The warden behind it looks suddenly very naked.	
+cards.kael_shatter.name	Shatter	
+cards.kael_shatter.text	Remove ALL of the target's Block. Apply {stacks} Vulnerable.	
+cards.kael_ozone.flavor	The smell before lightning. Every hair-fine scale on your arms stands up.	
+cards.kael_ozone.name	Ozone	
+cards.kael_ozone.text	Gain {stacks} Fury. Draw {draw} cards. Exhaust.	
+cards.kael_stormbreak.flavor	Go for the big one. The padlock, the laced sleeve, the thing they were proudest of.	
+cards.kael_stormbreak.name	Stormbreak	
+cards.kael_stormbreak.text	Struggle {struggle} against your highest-lock restraint. Gain {stacks} Fury.	
+cards.kael_chain_lightning.flavor	It jumps from collar to collar. Theirs, this time.	
+cards.kael_chain_lightning.name	Chain Lightning	
+cards.kael_chain_lightning.text	Deal {damage} damage to a random enemy {repeat} times.	
+cards.kael_grounded.flavor	A barn's lightning rod: let it run into the tile, not the cock.	
+cards.kael_grounded.name	Grounded	
+cards.kael_grounded.text	Gain {block} Block. Lose 10 arousal.	
+cards.kael_stormheart.flavor	Somewhere above the Vault there is a sky, and it remembers him.	
+cards.kael_stormheart.name	Stormheart	
+cards.kael_stormheart.text	At the start of your turn, gain {stacks} Strength.	
+cards.kael_denied_fury.flavor	Days of it. Weeks. Every time the cage stopped him, it was saving this up.	
+cards.kael_denied_fury.name	Denied Fury	
+cards.kael_denied_fury.text	Deal {damage} damage, +4 per Denial.	
+cards.kael_cage_rage.flavor	The Vaultkeeper wanted him to ask for it. He is going to hand it back in pieces instead.	
+cards.kael_cage_rage.name	Cage Rage	
+cards.kael_cage_rage.text	Whenever you gain Denial, gain {stacks} Strength.	
+cards.kael_tempest.flavor	The lights go, the cameras go, the drones drop, and in the dark something with horns is laughing.	
+cards.kael_tempest.name	Tempest	
+cards.kael_tempest.text	Deal {damage} damage to ALL enemies X times.	
+cards.kael_unchained.flavor	A sound like a bell. A buckle skittering across the floor. The warden taking one step back.	
+cards.kael_unchained.name	Unchained	
+cards.kael_unchained.text	Remove your lowest-lock restraint. Gain {stacks} Strength. Exhaust.	
+cards.kael_meltdown.flavor	The belly-scales go white-orange. So does everything else. So does he.	
+cards.kael_meltdown.name	Meltdown	
+cards.kael_meltdown.text	Apply {stacks} Heat to ALL enemies. You gain {arousal} arousal. Exhaust.	
+cards.kael_static_charge.flavor	Each blow charges the next like a capacitor bank behind the sternum.	
+cards.kael_static_charge.name	Static Charge	
+cards.kael_static_charge.text	Whenever you play an Attack, gain {stacks} Fury.	
+cards.kael_ruin.flavor	The Vault has a form for wardens who do not come back. Someone is going to have to fill it in.	
+cards.kael_ruin.name	Ruin	
+cards.kael_ruin.text	Deal {damage} damage.	
+cards.kael_edgewalker.flavor	He learned to think with the cock straining and the cage cutting. It turns out he thinks better.	
+cards.kael_edgewalker.name	Edgewalker	
+cards.kael_edgewalker.text	At the start of your turn, if your arousal is 50 or more, draw {draw} card and gain {stacks} Fury.	
+cards.silth_jr_strike.flavor	Nine years lifting Subjects onto benches. This warden is light.	
+cards.silth_jr_strike.name	Haymaker	
+cards.silth_jr_strike.text	Deal {damage} damage.	
+cards.silth_jr_shove.flavor	Both palms into the chest. Get some room. Get some air.	
+cards.silth_jr_shove.name	Shove	
+cards.silth_jr_shove.text	Deal {damage} damage. Gain {block} Block.	
+cards.silth_jr_defend.flavor	Feet planted, tits out, chin up. Protocol says kneel. Make her.	
+cards.silth_jr_defend.name	Stand	
+cards.silth_jr_defend.text	Gain {block} Block.	
+cards.silth_jr_wrench.flavor	She ordered these buckles. She knows the weak stitch.	
+cards.silth_jr_wrench.name	Wrench Free	
+cards.silth_jr_wrench.text	Struggle {struggle}.	
+cards.silth_jr_brace.flavor	She does not flinch. She has logged too many flinches to give them one.	
+cards.silth_jr_brace.name	Brace	
+cards.silth_jr_brace.text	Gain {block} Block. Gain {stacks} Stubborn.	
+cards.silth_jr_headbutt.flavor	Horns first, into a face that cannot get its hands up.	
+cards.silth_jr_headbutt.name	Headbutt	
+cards.silth_jr_headbutt.text	Deal {damage} damage. If the target is restrained, deal {damage2} more.	
+cards.silth_jr_stand_firm.flavor	Keep something back. They always come again.	
+cards.silth_jr_stand_firm.name	Stand Firm	
+cards.silth_jr_stand_firm.text	Gain {block} Block. Retain.	
+cards.silth_jr_shake_off.flavor	Black rubber peels off the shoulder in a long sticky sheet. She mixed this batch. She knows where it tears.	
+cards.silth_jr_shake_off.name	Shake It Off	
+cards.silth_jr_shake_off.text	Tear away 1 latex layer. Struggle {struggle}.	
+cards.silth_jr_thornlash.flavor	A tail edged with broken scale. It goes where the eyes go.	
+cards.silth_jr_thornlash.name	Thornlash	
+cards.silth_jr_thornlash.text	Deal {damage} damage, +2 per Thorns you have.	
+cards.silth_jr_trip.flavor	His own ankle chain, taken off his belt, snapped round his own ankles. Symmetry.	
+cards.silth_jr_trip.name	Trip	
+cards.silth_jr_trip.text	Deal {damage} damage. Lock {gear} on the target.	
+cards.silth_jr_muzzle.flavor	The handler used to call her ma'am. Now she has a bit between her teeth and a lot of drool.	
+cards.silth_jr_muzzle.name	Muzzle	
+cards.silth_jr_muzzle.text	Lock {gear} on the target. Gain {block} Block.	
+cards.silth_jr_bristle.flavor	Every scale on her back stands up like a row of knives. Grab that.	
+cards.silth_jr_bristle.name	Bristle	
+cards.silth_jr_bristle.text	Gain {block} Block. Gain {stacks} Thorns.	
+cards.silth_jr_grit.flavor	Jaw set. Thighs together. The wet under the plate is nobody's business.	
+cards.silth_jr_grit.name	Grit	
+cards.silth_jr_grit.text	Gain {block} Block. Lose 8 arousal.	
+cards.silth_jr_dig_in.flavor	Claws into the grout of the hex tiles she had laid. She is not moving.	
+cards.silth_jr_dig_in.name	Dig In	
+cards.silth_jr_dig_in.text	Gain {block} Block. Gain {stacks} Stubborn.	
+cards.silth_jr_body_slam.flavor	Two hundred pounds of ex-supervisor, braced, then suddenly not braced.	
+cards.silth_jr_body_slam.name	Body Slam	
+cards.silth_jr_body_slam.text	Deal damage equal to your Block.	
+cards.silth_jr_shield_bash.flavor	Take the warden's riot shield. Give it back to him edge-first.	
+cards.silth_jr_shield_bash.name	Shield Bash	
+cards.silth_jr_shield_bash.text	Deal {damage} damage. Gain {block} Block.	
+cards.silth_jr_cold_shoulder.flavor	The glove goes between her thighs and finds nothing it can log. Yet.	
+cards.silth_jr_cold_shoulder.name	Cold Shoulder	
+cards.silth_jr_cold_shoulder.text	Gain {stacks} Numb. Gain {block} Block.	
+cards.silth_jr_spit.flavor	Right in the eye. That is her assessment of his "processing".	
+cards.silth_jr_spit.name	Spit	
+cards.silth_jr_spit.text	Apply {stacks} Weak.	
+cards.silth_jr_talk_back.flavor	The warden told her to be quiet. She cited the protocol he skipped, by number.	
+cards.silth_jr_talk_back.name	Talk Back	
+cards.silth_jr_talk_back.text	Apply {stacks} Vulnerable. The target gains {arousal} arousal.	
+cards.silth_jr_mule_kick.flavor	Both heels. He was already off balance in his own chain.	
+cards.silth_jr_mule_kick.name	Mule Kick	
+cards.silth_jr_mule_kick.text	Deal {damage} damage. If the target is Hobbled, apply {stacks} Vulnerable.	
+cards.silth_jr_haul.flavor	Grab the chain you put on him and use him as a door.	
+cards.silth_jr_haul.name	Haul	
+cards.silth_jr_haul.text	Deal {damage} damage. If the target wears any restraint, gain {block} Block.	
+cards.silth_jr_bulwark.flavor	They will get through eventually. Eventually is a long time in the Vault.	
+cards.silth_jr_bulwark.name	Bulwark	
+cards.silth_jr_bulwark.text	Gain {block} Block.	
+cards.silth_jr_thorn_hide.flavor	Whoever wants to hold her down is going to bleed for the privilege.	
+cards.silth_jr_thorn_hide.name	Thorn Hide	
+cards.silth_jr_thorn_hide.text	Gain {stacks} Thorns.	
+cards.silth_jr_turnabout.flavor	Wrist, wrist, click, click. His face when he hears it is worth the whole Vault.	
+cards.silth_jr_turnabout.name	Turnabout	
+cards.silth_jr_turnabout.text	Lock {gear} on the target (lock {lock}).	
+cards.silth_jr_grapple.flavor	Thighs around his hips, one arm around his throat, and the ankle chain going on while he thrashes.	
+cards.silth_jr_grapple.name	Grapple	
+cards.silth_jr_grapple.text	Deal {damage} damage. Apply {stacks} Vulnerable. Lock {gear} on the target.	
+cards.silth_jr_salvage.flavor	The Lab wastes nothing.	
+cards.silth_jr_salvage.name	Salvage	
+cards.silth_jr_salvage.text	Put a card from your discard pile into your hand. Exhaust.	
+cards.silth_jr_endure.effects.0.options.0.label	Brace	
+cards.silth_jr_endure.effects.0.options.1.label	Breathe	
+cards.silth_jr_endure.flavor	Pain is information. She has decided not to read it.	
+cards.silth_jr_endure.name	Endure	
+cards.silth_jr_endure.text	Choose one: gain {block} Block, or heal {heal}.	
+cards.silth_jr_endure.upgrade.effects.0.options.0.label	Brace	
+cards.silth_jr_endure.upgrade.effects.0.options.1.label	Breathe	
+cards.silth_jr_collar_them.flavor	The handler goes very still when the collar closes. Then very red.	
+cards.silth_jr_collar_them.name	Collar Them	
+cards.silth_jr_collar_them.text	Lock {gear} on the target. The target gains {arousal} arousal.	
+cards.silth_jr_stonewall.flavor	They can strap her to whatever they like. She will still be a wall.	
+cards.silth_jr_stonewall.name	Stonewall	
+cards.silth_jr_stonewall.text	Gain {block} Block. Gain {stacks} Stubborn.	
+cards.silth_jr_reprisal.flavor	She lets him hit the guard, then hits back through it.	
+cards.silth_jr_reprisal.name	Reprisal	
+cards.silth_jr_reprisal.text	Deal {damage} damage. If you have Block, deal it twice.	
+cards.silth_jr_unbowed.flavor	Chain her. She will stand there chained and dare you.	
+cards.silth_jr_unbowed.name	Unbowed	
+cards.silth_jr_unbowed.text	At the start of your turn, if you wear any restraint, gain {block} Block.	
+cards.silth_jr_farm_hands.flavor	Hasps, cure-locks, ratchets. She fitted every one of them on someone else first.	
+cards.silth_jr_farm_hands.name	Lab Hands	
+cards.silth_jr_farm_hands.text	Gain {stacks} Locksmith and {stacks2} Restraint Master.	
+cards.silth_jr_sweat.flavor	She knows that dose; she mixed it. She burns it off before it reaches the clit.	
+cards.silth_jr_sweat.name	Sweat It Out	
+cards.silth_jr_sweat.text	Lose 25 arousal. Gain {block} Block. Exhaust.	
+cards.silth_jr_boar_rush.flavor	Head down, shoulders wide, through the whole line of them.	
+cards.silth_jr_boar_rush.name	Clear the Floor	
+cards.silth_jr_boar_rush.text	Deal {damage} damage to ALL enemies. Gain {block} Block.	
+cards.silth_jr_hold_line.flavor	Not one step. Not one inch. Not one buckle.	
+cards.silth_jr_hold_line.name	Hold the Line	
+cards.silth_jr_hold_line.text	Gain {block} Block. Gain {stacks} Stubborn. Retain.	
+cards.silth_jr_rebar.flavor	A length of it from the cell wall. He cannot even get his hands up.	
+cards.silth_jr_rebar.name	Rebar	
+cards.silth_jr_rebar.text	Deal {damage} damage. If the target is Cuffed, deal {damage2} more.	
+cards.silth_jr_second_wind.flavor	Spit blood, roll the shoulders, grin with red teeth.	
+cards.silth_jr_second_wind.name	Second Wind	
+cards.silth_jr_second_wind.text	Heal {heal}. Gain {block} Block. Exhaust.	
+cards.silth_jr_belt_them.flavor	Cage or belt, whichever fits. Watch them find out what Denial feels like from the inside.	
+cards.silth_jr_belt_them.name	Their Turn	
+cards.silth_jr_belt_them.text	Lock the target in chastity. The target gains {arousal} arousal. Exhaust.	
+cards.silth_jr_iron_will.flavor	Every strap they add makes her worse to fight. They never learn.	
+cards.silth_jr_iron_will.name	Iron Will	
+cards.silth_jr_iron_will.text	Whenever you are restrained, gain {stacks} Strength and {block} Block.	
+cards.silth_jr_juggernaut.flavor	Bracing is just winding up.	
+cards.silth_jr_juggernaut.name	Juggernaut	
+cards.silth_jr_juggernaut.text	Whenever you gain Block, deal {damage} damage to a random enemy.	
+cards.silth_jr_barricade.flavor	She has been a wall since intake. Now it is in the file.	
+cards.silth_jr_barricade.name	Barricade	
+cards.silth_jr_barricade.text	Block is no longer removed at the start of your turn.	
+cards.silth_jr_thorn_crown.flavor	Hit her and something comes off in your hand.	
+cards.silth_jr_thorn_crown.name	Crown of Thorns	
+cards.silth_jr_thorn_crown.text	Whenever an enemy's attack gets past your Block and Cover, apply {stacks} Weak to it.	
+cards.silth_jr_lockdown.flavor	The Vault issues a lot of cuffs. She signed for most of them.	
+cards.silth_jr_lockdown.name	Lockdown	
+cards.silth_jr_lockdown.text	Lock {gear} and {gear2} on ALL enemies. Exhaust.	
+cards.silth_jr_immovable.flavor	Three handlers, two drones and a warden, and she is still standing where she was.	
+cards.silth_jr_immovable.name	Immovable	
+cards.silth_jr_immovable.text	Gain {block} Block. Gain {stacks} Artifact. Exhaust.	
+cards.silth_jr_avalanche.flavor	Everything she has been holding, all at once, in every direction.	
+cards.silth_jr_avalanche.name	Avalanche	
+cards.silth_jr_avalanche.text	Deal damage equal to your Block to ALL enemies.	
+cards.silth_jr_barn_bred.flavor	Nine years of night shifts on the vats. Her hands do not shake.	
+cards.silth_jr_barn_bred.name	Night Shift	
+cards.silth_jr_barn_bred.text	Gain {stacks} Dexterity.	
+cards.silth_jr_wrecking_ball.flavor	Through him, through the strap, through the wall if the wall is next.	
+cards.silth_jr_wrecking_ball.name	Wrecking Ball	
+cards.silth_jr_wrecking_ball.text	Deal {damage} damage. Struggle {struggle}.	
+cards.argent_strike.flavor	The little blade a scribe keeps for trimming quills, kept very sharp.	
+cards.argent_strike.name	Penknife	
+cards.argent_strike.text	Deal {damage} damage.	
+cards.argent_flick.flavor	Claws across the wrist reaching for his chain, eyes already on the next line.	
+cards.argent_flick.name	Flick	
+cards.argent_flick.text	Deal {damage} damage. Draw {draw} card.	
+cards.argent_defend.flavor	Where he was is not where he is. The white tip of his brush leaves last.	
+cards.argent_defend.name	Sidestep	
+cards.argent_defend.text	Gain {block} Block.	
+cards.argent_lockpick.flavor	A bent pen nib, kept under his tongue through three strip searches. It still tastes of ink.	
+cards.argent_lockpick.name	Lockpick	
+cards.argent_lockpick.text	Struggle {struggle}.	
+cards.argent_quickdraw.flavor	Quill out, right page open, before the question ends.	
+cards.argent_quickdraw.name	Quickdraw	
+cards.argent_quickdraw.text	Draw {draw} card. Gain {stacks} Flow. Exhaust.	
+cards.argent_quickdraw.upgrade.text	Draw {draw} cards. Gain {stacks} Flow. Exhaust.	
+cards.argent_pickpocket.flavor	His keyring, his scrip and, entered in the margin for later, his dignity.	
+cards.argent_pickpocket.name	Pickpocket	
+cards.argent_pickpocket.text	Deal {damage} damage. Gain {gold} scrip.	
+cards.argent_tease.flavor	"Says here you like it slow, Mattick. I underlined it."	
+cards.argent_tease.name	Tease	
+cards.argent_tease.text	The target gains {arousal} arousal and {stacks} Aroused.	
+cards.argent_slip.flavor	A claw closes on air where his brush was a moment ago.	
+cards.argent_slip.name	Slip Away	
+cards.argent_slip.text	Gain {stacks} Dodge. Draw {draw} card.	
+cards.argent_read_room.flavor	Three wardens, two exits, one blind camera. He logged that blind spot himself.	
+cards.argent_read_room.name	Read the Room	
+cards.argent_read_room.text	Scry {scry}. Draw {draw} card.	
+cards.argent_reshuffle.flavor	A bad draw is a blotted page. Turn it, and write the next one cleaner.	
+cards.argent_reshuffle.name	Turn the Page	
+cards.argent_reshuffle.text	Discard your hand. Draw {draw} cards.	
+cards.argent_finisher.flavor	Clause, clause, clause, and then the full stop, driven in somewhere soft.	
+cards.argent_finisher.name	Full Stop	
+cards.argent_finisher.text	Deal {damage} damage, +2 per card played this turn.	
+cards.argent_ankle_trap.flavor	Snap, snap, down like a felled tree. He notes the time.	
+cards.argent_ankle_trap.name	Ankle Trap	
+cards.argent_ankle_trap.text	Lock {gear} on the target.	
+cards.argent_shakedown.flavor	Itemised: one baton, one keyring, one erection.	
+cards.argent_shakedown.name	Shakedown	
+cards.argent_shakedown.text	Deal {damage} damage, +3 per restraint the target wears.	
+cards.argent_first_names.flavor	"Easy, Corvin," against his ear, as his keys walk.	
+cards.argent_first_names.name	First Names	
+cards.argent_first_names.text	The target gains {arousal} arousal. Draw {draw} card.	
+cards.argent_feint.flavor	Left, then not left.	
+cards.argent_feint.name	Feint	
+cards.argent_feint.text	Gain {block} Block. Gain {stacks} Flow.	
+cards.argent_tail_sweep.flavor	A brush that big is mostly fur. The part that is not fur is all muscle.	
+cards.argent_tail_sweep.name	Tail Sweep	
+cards.argent_tail_sweep.text	Deal {damage} damage to ALL enemies.	
+cards.argent_tumble.flavor	Over the gurney, under the drone, up with a card he did not have a second ago.	
+cards.argent_tumble.name	Tumble	
+cards.argent_tumble.text	Gain {block} Block. Draw {draw} card.	
+cards.argent_coin_toss.flavor	Heads or tails, he wins: he keeps the book.	
+cards.argent_coin_toss.name	Coin Toss	
+cards.argent_coin_toss.text	Flip a scrip coin. Heads: gain 1 energy. Tails: draw 2 cards.	
+cards.argent_coin_toss.upgrade.text	Flip a scrip coin. Heads: gain 1 energy and draw 1 card. Tails: draw 2 cards.	
+cards.argent_quick_pick.flavor	Two seconds with a nib. He requisitioned this lock.	
+cards.argent_quick_pick.name	Quick Pick	
+cards.argent_quick_pick.text	Struggle {struggle}. Exhaust.	
+cards.argent_nick.flavor	A cut and a coin, entered on the same line under the same date.	
+cards.argent_nick.name	Nick	
+cards.argent_nick.text	Deal {damage} damage. Gain {gold} scrip.	
+cards.argent_gag_order.flavor	The bit goes in mid-sentence. It was about the fox's caged cock.	
+cards.argent_gag_order.name	Gag Order	
+cards.argent_gag_order.text	Lock {gear} on the target.	
+cards.argent_shed.flavor	He moults in seconds; the handler is left holding black rubber full of silver hair.	
+cards.argent_shed.name	Shed Skin	
+cards.argent_shed.text	Tear away 1 latex layer. Draw {draw} card.	
+cards.argent_shed.upgrade.text	Tear away 2 latex layers. Draw {draw} card.	
+cards.argent_backstab.flavor	A hooded warden makes a very specific noise. From behind.	
+cards.argent_backstab.name	Backstab	
+cards.argent_backstab.text	Deal {damage} damage. If the target is Blind, deal {damage2} more.	
+cards.argent_flow_state.flavor	The ink runs, the room slows, and only the pen keeps its pace.	
+cards.argent_flow_state.name	Flow State	
+cards.argent_flow_state.text	Gain {stacks} Flow. At the end of your turn, gain 1 Flow.	
+cards.argent_sleight.flavor	Strip-searched twice, and still two shivs. Do not ask where.	
+cards.argent_sleight.name	Sleight	
+cards.argent_sleight.text	Add {count} Shivs to your hand. Exhaust.	
+cards.argent_slick_trick.flavor	Peeled off his own thigh, still warm, and slapped over the warden's mouth and eyes.	
+cards.argent_slick_trick.name	Slick Trick	
+cards.argent_slick_trick.text	Shed a latex layer onto the target. Deal {damage} damage, +3 per layer on them.	
+cards.argent_vanish.flavor	One silver line, and he is struck from the record.	
+cards.argent_vanish.name	Erasure	
+cards.argent_vanish.text	Gain 3 Block per card in your hand. Exhaust your hand.	
+cards.argent_vanish.upgrade.text	Gain 4 Block per card in your hand. Exhaust your hand.	
+cards.argent_zip_ties.flavor	He cannot touch his own cock now. Serves him right.	
+cards.argent_zip_ties.name	Zip Ties	
+cards.argent_zip_ties.text	Lock {gear} on the target (lock {lock}).	
+cards.argent_hood_trick.flavor	Off his own belt, over his own eyes. He did not see it coming.	
+cards.argent_hood_trick.name	Hood Trick	
+cards.argent_hood_trick.text	Lock {gear} on the target. Draw {draw} card.	
+cards.argent_hood_trick.upgrade.text	Lock {gear} on the target. Draw {draw} cards.	
+cards.argent_nerve_strike.flavor	Two pads, exactly there.	
+cards.argent_nerve_strike.name	Nerve Strike	
+cards.argent_nerve_strike.text	Apply {stacks} Sensitive. The target gains {arousal} arousal.	
+cards.argent_blink.flavor	A thumb through wet ink, and the baton hits tile.	
+cards.argent_blink.name	Smudge	
+cards.argent_blink.text	Gain {stacks} Dodge. Draw {draw} card. Exhaust.	
+cards.argent_heist.flavor	Locker, purse, petty cash. He filed the combinations.	
+cards.argent_heist.name	Heist	
+cards.argent_heist.text	Gain {gold} scrip. Draw {draw} cards. Exhaust.	
+cards.argent_grease_palms.flavor	"Look away one round, Mattick. I'll mark it paid."	
+cards.argent_grease_palms.name	Grease Palms	
+cards.argent_grease_palms.text	Lose 15 scrip. The target will Defend next turn instead of acting.	
+cards.argent_grease_palms.upgrade.text	Lose 10 scrip. The target will Defend next turn instead of acting.	
+cards.argent_double_take.flavor	Read twice, file once, and drop the rest in the warden's coffee.	
+cards.argent_double_take.name	Double Take	
+cards.argent_double_take.text	Draw {draw} cards. Discard {count} card.	
+cards.argent_roll_call.flavor	Each warden by first name, with the worst line in his file.	
+cards.argent_roll_call.name	Roll Call	
+cards.argent_roll_call.text	ALL enemies gain {arousal} arousal and {stacks} Aroused.	
+cards.argent_palm.flavor	Now you see it. Now the warden does not.	
+cards.argent_palm.name	Palm	
+cards.argent_palm.text	Put a card from your hand on top of your draw pile. Draw {draw} card.	
+cards.argent_palm.upgrade.text	Put a card from your hand on top of your draw pile. Draw {draw} cards.	
+cards.argent_steal_key.flavor	Lifted off the warden cuffing him. He used to sign it out.	
+cards.argent_steal_key.name	Steal the Key	
+cards.argent_steal_key.text	Struggle {struggle}. Gain {gold} scrip. Exhaust.	
+cards.argent_expose.flavor	Shield, shorts, composure: stripped in that order, minuted.	
+cards.argent_expose.name	Expose	
+cards.argent_expose.text	Apply {stacks} Vulnerable. If the target is restrained, apply {stacks2} more.	
+cards.argent_whip_tail.flavor	Across the thighs, then between them: soft fur, then not soft at all.	
+cards.argent_whip_tail.name	Brush Off	
+cards.argent_whip_tail.text	Deal {damage} damage. The target gains {arousal} arousal.	
+cards.argent_fox_trot.flavor	Light on the pads, never where the baton lands. Nobody here has seen him hurry.	
+cards.argent_fox_trot.name	Fox Trot	
+cards.argent_fox_trot.text	At the start of your turn, gain {stacks} Dodge.	
+cards.argent_edge_play.flavor	How close is in the file. He keeps the warden exactly there, then lets go.	
+cards.argent_edge_play.name	Edge Play	
+cards.argent_edge_play.text	Apply {stacks} Sensitive and {stacks2} Edged to the target.	
+cards.argent_master_key.flavor	Off the Keeper's own ring.	
+cards.argent_master_key.name	Master Key	
+cards.argent_master_key.text	Remove your two lowest-lock restraints. Exhaust.	
+cards.argent_afterimage.flavor	They keep hitting the copy. The original is three lines further down.	
+cards.argent_afterimage.name	Carbon Copy	
+cards.argent_afterimage.text	Whenever you play a card, gain {block} Block.	
+cards.argent_overload.flavor	Came in uniform, on tape.	
+cards.argent_overload.name	Overload	
+cards.argent_overload.text	Apply {stacks} Sensitive, then the target gains {arousal} arousal. Exhaust.	
+cards.argent_running_hand.flavor	One wet sigil, and the next page writes itself.	
+cards.argent_running_hand.name	Running Hand	
+cards.argent_running_hand.text	Gain {energy} energy. Draw {draw} cards. Exhaust.	
+cards.argent_thousand_cuts.flavor	None deep, and all where he cannot reach.	
+cards.argent_thousand_cuts.name	Paper Cuts	
+cards.argent_thousand_cuts.text	Whenever you play a card, deal {damage} damage to ALL enemies.	
+cards.argent_full_kit.flavor	All his own gear, mid-speech.	
+cards.argent_full_kit.name	Full Kit	
+cards.argent_full_kit.text	Lock {gear}, {gear2}, {gear3} and {gear4} on the target. Exhaust.	
+cards.argent_grand_larceny.flavor	The payroll, and the paymaster tied up in his own tie.	
+cards.argent_grand_larceny.name	Grand Larceny	
+cards.argent_grand_larceny.text	Deal {damage} damage. Gain {gold} scrip. Exhaust.	
+cards.argent_phase.flavor	One black bar through his own name. Nobody left to hit.	
+cards.argent_phase.name	Redacted	
+cards.argent_phase.text	Gain {stacks} Intangible. Exhaust.	
+cards.shiv.flavor	A toothbrush handle, a bed spring, and a grudge.	
+cards.shiv.name	Shiv	
+cards.shiv.text	Deal {damage} damage. Exhaust.	
+cards.c_blood_price.flavor	Tear your own wrist open on the cuff to get the reach. Worth it.	
+cards.c_blood_price.name	Blood Price	
+cards.c_blood_price.text	Lose 3 stamina. Deal {damage} damage.	
+cards.c_lull.flavor	Go somewhere else in your head. Leave the body to them for a minute.	
+cards.c_lull.name	Lull	
+cards.c_lull.text	Gain {stacks} Artifact. Gain {stacks2} Numb.	
+cards.c_bent_pin.flavor	Traded for a week of dessert rations. A bargain.	
+cards.c_bent_pin.name	Bent Pin	
+cards.c_bent_pin.text	Struggle {struggle}. Exhaust.	
+cards.c_thrash.flavor	Whole body. Ugly, loud, and it works better than begging.	
+cards.c_thrash.name	Thrash	
+cards.c_thrash.text	Struggle {struggle}. Gain {block} Block.	
+cards.c_hold_it.flavor	Think about the intake paperwork. Think about the smell of the drains. Think about anything else.	
+cards.c_hold_it.name	Hold It	
+cards.c_hold_it.text	Lose 20 arousal. Gain {block} Block.	
+cards.c_wink.flavor	Wardens are not supposed to fraternise with Subjects. They think about it constantly.	
+cards.c_wink.name	Wink	
+cards.c_wink.text	The target gains {arousal} arousal.	
+cards.c_steady.flavor	Breathe in for four. Out for four. The gloved hand is just a hand.	
+cards.c_steady.name	Steady	
+cards.c_steady.text	Gain {stacks} Numb. Draw {draw} cards.	
+cards.c_inmate_rage.flavor	It is not technique. It is three months of being called a number.	
+cards.c_inmate_rage.name	Inmate Rage	
+cards.c_inmate_rage.text	Deal {damage} damage. Add a Dazed to your discard pile.	
+cards.c_kick_free.flavor	The chain sings. The warden ducks. Good.	
+cards.c_kick_free.name	Kick Free	
+cards.c_kick_free.text	Struggle {struggle} against your leg restraints. Draw {draw} card.	
+cards.c_scrip_stash.flavor	Sewn into the waistband of the inmate shorts, where nobody searches because everybody searches there.	
+cards.c_scrip_stash.name	Scrip Stash	
+cards.c_scrip_stash.text	Gain {gold} scrip. Exhaust.	
+cards.c_smuggled_blade.flavor	A scalpel from the lab, ground down on the cell floor for nine nights.	
+cards.c_smuggled_blade.name	Smuggled Blade	
+cards.c_smuggled_blade.text	Deal {damage} damage. Apply {stacks} Vulnerable.	
+cards.c_flinch.flavor	Turn the shoulder. Take it there. It is only skin.	
+cards.c_flinch.name	Flinch	
+cards.c_flinch.text	Gain {block} Block. Exhaust.	
+cards.c_tear.flavor	Claws under the seam. Pull until something gives. Usually it is the rubber.	
+cards.c_tear.name	Tear	
+cards.c_tear.text	Tear away 1 latex layer. Gain {block} Block. Exhaust.	
+cards.c_tear.upgrade.text	Tear away 2 latex layers. Gain {block} Block. Exhaust.	
+cards.c_panic.flavor	The heart hammers, the steel aches, and suddenly there are options.	
+cards.c_panic.name	Panic	
+cards.c_panic.text	Draw {draw} cards. You gain {arousal} arousal. Exhaust.	
+cards.c_bribe.flavor	The warden pockets it and looks at the ceiling for exactly as long as he was paid to.	
+cards.c_bribe.name	Bribe	
+cards.c_bribe.text	Lose 15 scrip. Gain {energy} energy.	
+cards.c_bribe.upgrade.text	Lose 10 scrip. Gain {energy} energy.	
+cards.c_contraband_key.flavor	Filed from a spoon to match a warden's cuff key, from memory, by touch, in the dark.	
+cards.c_contraband_key.name	Contraband Key	
+cards.c_contraband_key.text	Remove your lowest-lock restraint. Exhaust.	
+cards.c_relief.effects.2.text	Quick, rough, and over. The room smells of it. Your head is clear.	
+cards.c_relief.flavor	Thirty seconds against the cell wall with the camera watching. Whatever. It works.	
+cards.c_relief.name	Relief	
+cards.c_relief.text	Bring yourself off. Set your arousal to 0. Draw {draw} cards. Exhaust. Unplayable while Locked.	
+cards.c_relief.upgrade.effects.2.text	Quick, rough, and over. The room smells of it. Your head is clear.	
+cards.c_scream.flavor	Not a word in it. Every warden remembers your teeth.	
+cards.c_scream.name	Scream	
+cards.c_scream.text	Apply {stacks} Weak to ALL enemies. Exhaust.	
+cards.c_stim_tab.flavor	Lab-grade. Tastes like battery acid and feels like a second morning.	
+cards.c_stim_tab.name	Stim Tab	
+cards.c_stim_tab.text	Gain {energy} energy. Draw {draw} card. Exhaust.	
+cards.c_stim_tab.upgrade.text	Gain {energy} energy. Draw {draw} cards. Exhaust.	
+cards.c_spit_the_gag.flavor	Tongue, jaw, and a lot of drool. The buckle at the back finally slips.	
+cards.c_spit_the_gag.name	Spit the Gag	
+cards.c_spit_the_gag.text	Struggle {struggle} against your gag. Exhaust.	
+cards.c_slip_the_cuffs.flavor	Dislocate the thumb. Pull. Relocate the thumb. Do not scream.	
+cards.c_slip_the_cuffs.name	Slip the Cuffs	
+cards.c_slip_the_cuffs.text	Struggle {struggle} against your arm restraints. Exhaust.	
+cards.c_peel.flavor	Claws under the seam at the throat and pull, and the whole black skin comes off like a scream.	
+cards.c_peel.name	Peel	
+cards.c_peel.text	Tear away 2 latex layers. Exhaust.	
+cards.c_peel.upgrade.text	Tear away 3 latex layers. Exhaust.	
+cards.c_last_word.flavor	You tell him exactly what you think of him and then you put your fist through the words.	
+cards.c_last_word.name	Last Word	
+cards.c_last_word.text	Deal {damage} damage.	
+cards.c_touch.flavor	Bare, or through the steel: a fist, a claw, it does not matter. It sharpens everything.	
+cards.c_touch.name	Touch Yourself	
+cards.c_touch.text	You gain {arousal} arousal. Gain {stacks} Strength. Draw {draw} card. Exhaust.	
+cards.c_confession.flavor	Say what they want to hear. Say it convincingly. Hate how good it feels to be told "good".	
+cards.c_confession.name	Confession	
+cards.c_confession.text	Heal {heal}. Gain {stacks} Obedient. Exhaust.	
+cards.c_stagger.flavor	A boot to the knee and the warden's whole plan for the next thirty seconds is standing up.	
+cards.c_stagger.name	Stagger	
+cards.c_stagger.text	The target will Defend next turn instead of acting. Exhaust.	
+cards.c_muscle_memory.flavor	The body works at the buckles even while the mind is somewhere else, screaming.	
+cards.c_muscle_memory.name	Muscle Memory	
+cards.c_muscle_memory.text	At the start of your turn, Struggle {struggle} against your lowest-lock restraint.	
+cards.c_bolt_cutters.flavor	Nobody knows how they got into the cell block. Nobody is going to ask.	
+cards.c_bolt_cutters.name	Bolt Cutters	
+cards.c_bolt_cutters.text	Struggle {struggle} against your highest-lock restraint. Exhaust.	
+cards.c_riot.flavor	The whole block starts banging on the doors at once, and somewhere a warden stops smiling.	
+cards.c_riot.name	Riot	
+cards.c_riot.text	Struggle 3 against every restraint you wear. Deal 3 damage to ALL enemies.	
+cards.c_riot.upgrade.text	Struggle 5 against every restraint you wear. Deal 5 damage to ALL enemies.	
+cards.dazed.flavor	The baton, the lights, the floor coming up. Somebody is laughing.	
+cards.dazed.name	Dazed	
+cards.dazed.text	Unplayable. Ethereal.	
+cards.wound.flavor	A gash along the ribs that opens every time you swing.	
+cards.wound.name	Wound	
+cards.wound.text	Unplayable.	
+cards.latex_glob.flavor	A fistful of warm black rubber that sticks to everything it touches. Peel it off. It takes skin.	
+cards.latex_glob.name	Latex Glob	
+cards.latex_glob.text	Exhaust.	
+cards.heat_rash.flavor	Where the latex was welded on under the lamps. It itches like a scream.	
+cards.heat_rash.name	Heat Rash	
+cards.heat_rash.text	Lose 2 stamina. Exhaust.	
+cards.curse_obedience.flavor	"Kneel." And your knees bent before your head had voted.	
+cards.curse_obedience.name	Obedience	
+cards.curse_obedience.text	Unplayable.	
+cards.curse_cage_envy.flavor	You saw the other Subject's padlock and something in your gut went hot and wet and wanting.	
+cards.curse_cage_envy.name	Cage Envy	
+cards.curse_cage_envy.text	You gain {arousal} arousal. Exhaust.	
+cards.curse_drool.flavor	Gagged so often the jaw has stopped closing on its own. It is there from the first second of every fight, a string of it on the chin.	
+cards.curse_drool.name	Drool	
+cards.curse_drool.text	Unplayable. Innate.	
+cards.curse_leash_reflex.flavor	A click by the throat and the body heels before the mind can object.	
+cards.curse_leash_reflex.name	Leash Reflex	
+cards.curse_leash_reflex.text	Unplayable.	
+cards.curse_encasement_dream.flavor	Every night: the vat, the warmth, the seal closing over the face, and waking up soaked and ashamed.	
+cards.curse_encasement_dream.name	Encasement Dream	
+cards.curse_encasement_dream.text	Gain 1 latex layer. Exhaust.	
+cards.curse_shame.flavor	They made you say it into the camera. You said it. You would say it again.	
+cards.curse_shame.name	Shame	
+cards.curse_shame.text	Gain {stacks} Obedient. Exhaust.	
+keywords.aching.name	Aching	
+keywords.aching.text	You held it. For 2 turns your attacks deal +50% and you take +20% arousal. The body remembers what it was denied.	
+keywords.armbound.name	Armbound	
+keywords.armbound.text	Attack and Manual cards are unplayable. Struggle cards still work.	
+keywords.arousal.name	Arousal	
+keywords.arousal.text	0–100. At 100: free → you come and go down (hand discarded, energy 0, Spent 2, arousal 35; every release goes on the run's ledger and is never wiped, and the second breaks you: in a fight that fight is lost, between fights the run ends); Locked → you EDGE (hand exhausted, Denial −33%, arousal 70). An enemy at 100 is put in Pet Mode the first time, out of the fight (a construct faults into safe mode); a boss is only Overstimulated and skips a turn. Arousal persists between fights.	
+keywords.aroused.name	Aroused	
+keywords.aroused.text	At the end of the turn, gains {n} arousal. Wears off by 1 each turn.	
+keywords.artifact.name	Artifact	
+keywords.artifact.text	Negates the next {n} debuff(s).	
+keywords.blind.name	Blind	
+keywords.blind.text	Enemy intents are hidden and your attacks deal 25% less.	
+keywords.block.name	Block	
+keywords.block.text	Absorbs attack damage this turn. Wears off at the start of your next turn unless Stubborn.	
+keywords.collared.name	Collared	
+keywords.collared.text	+1 arousal each turn. Enemies can Leash you.	
+keywords.conditioning.name	Conditioning	
+keywords.conditioning.text	A curse. Junk that persists in your deck until removed. The Vault is teaching you something.	
+keywords.cover.name	Cover	
+keywords.cover.text	Vault-issue clothing, read as a number: 5 Cover per garment. Damage that gets past Block comes out of Cover before your stamina, the top first, the shorts last; whatever ignores Block ignores Cover too. A garment at 0 tears off for the rest of the run. Nothing locks on over cloth: a cage or a belt cuts the shorts away as it closes, clamps or an armbinder the top, and the lock coming off does not dress you. The Vault issues clothing once, and is in no hurry to cover what it finds underneath.	
+keywords.cuffed.name	Cuffed	
+keywords.cuffed.text	Attacks deal 50% damage.	
+keywords.denial.name	Denial	
+keywords.denial.text	+1 Strength per 3 stacks (maximum +5 Strength). Builds by 1 each turn you end Locked with arousal 50 or more. Every EDGE takes 33% of it away (rounded down, at least 1 while you have any). Cleared when the cage or belt comes off, and if you are at 50+ arousal when it does, you come on the spot, in a fight or out of one, and it goes on the ledger like any other release.	
+keywords.dexterity.name	Dexterity	
+keywords.dexterity.text	Block gains are increased by {n}.	
+keywords.dodge.name	Dodge	
+keywords.dodge.text	Negates the next {n} attack hit(s).	
+keywords.drained.name	Drained	
+keywords.drained.text	Loses {n} energy at the start of the turn. Wears off by 1 each turn.	
+keywords.edge.name	Edge	
+keywords.edge.text	What happens at 100 arousal while Locked: you get nothing, and it costs you. The hand is exhausted (those cards are gone for the rest of the fight), Denial falls by 33% (rounded down, at least 1 while you have any), and arousal drops to 70 and starts climbing again.	
+keywords.edged.name	Edged	
+keywords.edged.text	The next arousal gain is doubled, then Edged is consumed.	
+keywords.encased.name	Encased	
+keywords.encased.text	4 latex layers: Struggle cards are unplayable and you draw 1 fewer card. Only tearing (Skills) or rest gets it off.	
+keywords.ethereal.name	Ethereal	
+keywords.ethereal.text	Exhausts if still in hand at the end of your turn.	
+keywords.exhaust.name	Exhaust	
+keywords.exhaust.text	Removed from the fight when played.	
+keywords.flow.name	Flow	
+keywords.flow.text	Draw {n} extra card(s) at the start of the turn. Wears off by 1 each turn.	
+keywords.frail.name	Frail	
+keywords.frail.text	Gains 25% less Block. {n} turn(s).	
+keywords.fury.name	Fury	
+keywords.fury.text	The next attack deals +{n} damage per hit, then Fury is consumed.	
+keywords.gagged.name	Gagged	
+keywords.gagged.text	Vocal cards are unplayable. +1 arousal at the start of each turn (you drool; they watch).	
+keywords.heat.name	Heat	
+keywords.heat.text	Takes {n} damage at the end of the turn. Enemies deal −1 damage per 3 Heat. Wears off by 1 each turn.	
+keywords.hobbled.name	Hobbled	
+keywords.hobbled.text	Draw 1 fewer card each turn.	
+keywords.innate.name	Innate	
+keywords.innate.text	Starts every fight in your opening hand.	
+keywords.intangible.name	Intangible	
+keywords.intangible.text	All damage taken is reduced to 1. {n} turn(s).	
+keywords.latex.name	Latex	
+keywords.latex.text	Layers 0–4. Each layer: +1 Slick and +25% arousal gain. 4 layers = Encased.	
+keywords.leash.name	Leash	
+keywords.leash.text	An enemy move on a Collared player: while Leashed you can only target the holder.	
+keywords.leashed.name	Leashed	
+keywords.leashed.text	You can only target the leash holder. {n} turn(s).	
+keywords.locked.name	Locked	
+keywords.locked.text	Caged or belted. At 100 arousal you EDGE instead of finishing. Ending a turn at 50+ arousal builds Denial, and every EDGE costs you some of it. Release cards are unplayable. Persists between fights.	
+keywords.locksmith.name	Locksmith	
+keywords.locksmith.text	Your struggles deal +{n} lock damage.	
+keywords.manual.name	Manual	
+keywords.manual.text	Needs your hands. Unplayable while Armbound.	
+keywords.numb.name	Numb	
+keywords.numb.text	Arousal gains are halved. {n} turn(s).	
+keywords.obedient.name	Obedient	
+keywords.obedient.text	Discards {n} random card(s) at the start of the turn. Wears off by 1 each turn.	
+keywords.overstimulated.name	Overstimulated	
+keywords.overstimulated.text	Came too hard to think. Skips the next turn. Only a boss gets off this lightly: any other enemy that comes in a fight is put in Pet Mode on the spot, out for good (a construct faults into safe mode instead).	
+keywords.petMode.name	Pet Mode	
+keywords.petMode.text	The Vault allows nobody a release on shift, staff least of all, and it does not wait for a second. The first Overstimulation in a fight takes the offender out of it: sealed in gloss black, muzzled, cuffed, down on all fours with the tail held up, harmless, and left where it dropped until somebody collects it. Counts as a kill. Constructs fault into safe mode instead. Bosses are exempt: they only lose the turn.	
+keywords.poison.name	Poison	
+keywords.poison.text	Takes {n} damage at the start of the turn, ignoring Block. Wears off by 1 each turn.	
+keywords.regen.name	Regen	
+keywords.regen.text	Heals {n} at the end of the turn. Wears off by 1 each turn.	
+keywords.release.name	Release	
+keywords.release.text	Brings you off. Unplayable while Locked.	
+keywords.releaseLedger.name	Release Ledger	
+keywords.releaseLedger.text	The Vault keeps a ledger and it does not rub anything out. Every release you have is entered for the whole run: in a fight, between fights, on any sublevel. Nothing resets it. The second entry closes the file where it happens. In a fight, that fight is lost and whoever is standing over you collects. Between fights (a key, a struggle, an hour alone with the buckles) the run ends on the spot: nobody has to lay a hand on you, they only come down to collect.	
+keywords.restraintMaster.name	Restraint Master	
+keywords.restraintMaster.text	Restraints you apply get +{n} lock.	
+keywords.retain.name	Retain	
+keywords.retain.text	Not discarded at the end of your turn.	
+keywords.scrip.name	Scrip	
+keywords.scrip.text	Vault currency. Buys contraband, vials, keys. And silence.	
+keywords.sensitive.name	Sensitive	
+keywords.sensitive.text	Arousal gains are doubled. {n} turn(s).	
+keywords.shock.name	Shock Collar	
+keywords.shock.text	Collared, and every Vocal card you play deals 2 unblockable damage to you.	
+keywords.slick.name	Slick	
+keywords.slick.text	Struggle deals 25% less per stack (4 = nothing). Tracks latex layers.	
+keywords.spent.name	Spent	
+keywords.spent.text	You came. For {n} turn(s) you get no energy and can play no card; the hand is discarded when it happens. Come between fights and you start the next one on the tile, its first two turns down. Every release goes on the Vault's ledger for the rest of the run: the second loses the fight you are in, or, between fights, ends the run on the spot.	
+keywords.stall.name	Stall	
+keywords.stall.text	Three turns with no blood and no locks changing hands and the Vault intervenes: +15 arousal to everyone, 3 unblockable damage to you, every turn until somebody breaks.	
+keywords.strength.name	Strength	
+keywords.strength.text	Attacks deal +{n} damage per hit.	
+keywords.struggle.name	Struggle	
+keywords.struggle.text	Deals lock damage to one of your restraints. Lock 0 = it comes off. Struggle cards are always playable while Armbound, never while Encased.	
+keywords.stubborn.name	Stubborn	
+keywords.stubborn.text	Block is not removed at the start of your turn. {n} turn(s).	
+keywords.thorns.name	Thorns	
+keywords.thorns.text	Attackers take {n} damage per hit.	
+keywords.unplayable.name	Unplayable	
+keywords.unplayable.text	Cannot be played. Dead weight in the hand.	
+keywords.veiled.name	Veiled	
+keywords.veiled.text	Its intents are hidden from you. {n} turn(s).	
+keywords.vocal.name	Vocal	
+keywords.vocal.text	Shouted, taunted, begged. Unplayable while Gagged; costs 2 damage under a Shock Collar.	
+keywords.vulnerable.name	Vulnerable	
+keywords.vulnerable.text	Takes 50% more damage from attacks. {n} turn(s).	
+keywords.weak.name	Weak	
+keywords.weak.text	Deals 25% less attack damage. {n} turn(s).	
